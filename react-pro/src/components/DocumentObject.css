@@ -1,0 +1,23 @@
+/* 
+# calling id 
+. callinng class
+tag name 
+*/
+
+.frame1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 10px;
+    margin-bottom: 3px;
+
+}
+
+
+.frame2 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    padding: 10px;
+
+}
